@@ -15,8 +15,12 @@
 }
 
 .product-display {
-    background-color: grey;
+    background-color: transparent;
     margin-block-end: 15px;
+}
+
+.product-display img {
+    border-radius: 1rem;
 }
 
 .fade-anim {

@@ -69,9 +69,12 @@
 
 .produts_img {
   position: relative;
-  max-width: 180px;
-  left: 2.5rem;
   transition: 0.3s;
+  border-radius: 1rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  margin-right: 1rem;
+  margin-left: 1rem;
 }
 
 .product_circle {
@@ -149,6 +152,22 @@
   .produts_list-container {
     grid-template-columns: 1fr;
   }
+  .produts_img {
+    position: relative;
+    transition: 0.3s;
+    border-radius: 1rem;
+    max-width: 35%;
+    max-height: 80%;
+  }
+}
+
+@media screen and (max-width: 291px) {
+  .produts_list-container {
+    grid-template-columns: .75fr;
+  }
+  .produts_value {
+    font-size: 3px;
+  }
 }
 
 @media screen and (min-width: 576px) {
@@ -184,6 +203,7 @@
 
   .produts_img {
     max-width: 230px;
+    max-height: 230px;
     left: 0.75rem;
   }
 
