@@ -33,7 +33,7 @@
 }
 
 .team-card img:hover {
-    box-shadow: 0 0 3px 3px rgba(0, 128, 0, 0.5);
+    box-shadow: 0 0 3px 3px rgba(255, 255, 255, 0.5);
 }
 
 @media only screen and (max-width: 768px) {
