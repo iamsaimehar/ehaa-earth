@@ -369,7 +369,7 @@ header .btn-group {
     .blog-card-banner {
         display: block;
         overflow: hidden;
-        border-radius: 5px;
+        border-radius: 1rem;
     }
 
     .blog-banner-img {
