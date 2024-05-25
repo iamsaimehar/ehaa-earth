@@ -703,7 +703,8 @@ body.dark-theme {
 }
 
 .about_img {
-    display: none
+    display: none;
+    border-radius: 1rem;
 }
 
 .button {
