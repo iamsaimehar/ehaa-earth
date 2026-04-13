@@ -49,6 +49,6 @@ This project is a labor of love for environmental sustainability and modern web 
 
 ## 🛡 License
 
-This project is protected under a **Proprietary License**. Unauthorized copying of the source code or the unique visual design is strictly prohibited. See the [LICENSE](./LICENSE) file for full details.
+This project is protected under a **Proprietary License**. All rights, including source code and visual design, are reserved by **EHAA EARTH Pvt Ltd** and the Developer, **Mr. Sai Mehar**. Unauthorized copying or reproduction is strictly prohibited. See the [LICENSE](./LICENSE) file for full details.
 
 Developed with passion by **Sai Mehar** and the **EHAA Earth Team**.
